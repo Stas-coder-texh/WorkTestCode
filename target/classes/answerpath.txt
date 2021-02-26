@@ -1,0 +1,2 @@
+Hpath
+[/hello/уточка, /hello/лошадка, /hello/собачка]
